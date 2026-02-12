@@ -172,3 +172,4 @@ Yay! Everything works! Here are some ideas you could use to change up your game:
 - Add sounds every time you click (check out the [`use-sound` hook here](https://github.com/joshwcomeau/use-sound), and take a look at [this example](https://repl.it/@JasonAntwiAppah/finished-clicker-game-with-sound))
 - Create a [click per second (CPS) calculator](https://cpstest.org/)
 - Edit `App.css` to completely change the styling and give your game a theme, like [this cookie clicker game?](https://orteil.dashnet.org/cookieclicker/)
+- [PC Bottleneck Calculator](https://bottleneckcalculatoronline.com/) – Check if your CPU or GPU is limiting your performance before building your clicker game.
